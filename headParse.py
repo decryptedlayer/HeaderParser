@@ -5,8 +5,8 @@ class Parser:
 
     def __init__(self):
         #Change constructor variable to the text file which holds the header information
-        self.hFile = "headerTest.txt"
-        self.outFile = "Email Header Report.txt"
+        self.hFile = "HEADER_FILE_NAME.txt"
+        self.outFile = "HEADER_REPORT_FILE_NAME.txt"
 
     #Function to open header text file and extract information to list
     def openHeader(self, headFile):
