@@ -1,2 +1,2 @@
 # HeaderParser
-Python script to parse and extract information from email headers and dup information into a secondary file.
+Python script to parse and extract useful OSINT information from email headers and dump it into a secondary file.
